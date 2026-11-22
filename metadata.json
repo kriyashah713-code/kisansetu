@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu",
+  "description": "AI-powered agricultural intelligence and market-connect platform helping farmers scan crop health, assess quality, compare markets, and connect directly with verified buyers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
